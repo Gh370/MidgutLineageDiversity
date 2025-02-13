@@ -42,7 +42,7 @@ for (i in 1:1000) {
     
     ci_width <- runif(n, 0.1, 0.2) * mean
     
-    ci_lower <- pmax(mean - ci_width, 1e-6)  # 保证下界为正
+    ci_lower <- pmax(mean - ci_width, 1e-6) 
     ci_upper <- mean + ci_width
     
     return(data.frame(division = division, mean = mean, ci_lower = ci_lower, ci_upper = ci_upper))
