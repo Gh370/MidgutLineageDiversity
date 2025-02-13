@@ -1,11 +1,11 @@
 # MidgutLineageDiversity
-Important codes and data for "Age-dependent loss of lineages is revealed by phylogenetic structure in the adult *Drosophila* midguts".
+Important codes and data for "Mapping high-resolution cell phylogenies reveals age-dependent loss of lineage diversity in the *Drosophila* midgut".
 
 ## code
 The calculation process of obtaining effective population size and lineage diversity in midgut.
 
 ## data
-Files with **annotation** in the filename are the annotations of the phylogenetic trees, which are about the numbers of mutaitons in the sampled readout sequences. The names of samples are derived from "Age-dependent loss of lineages is revealed by phylogenetic structure in the adult *Drosophila* midguts".
+Files with **annotation** in the filename are the annotations of the phylogenetic trees, which are about the numbers of mutaitons in the sampled readout sequences. The names of samples are derived from "Mapping high-resolution cell phylogenies reveals age-dependent loss of lineage diversity in the *Drosophila* midgut".
 ### IQ-TREE
 Phylogenetic trees constructed using IQ-TREE that have been pruned.
 ### Phylotime
