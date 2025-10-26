@@ -1,4 +1,4 @@
-# Lineage Diversity--Time-Scaled Phylogenetic Tree
+# Clonal Diversity--Time-Scaled Phylogenetic Tree
 
 rm(list=ls())
 
@@ -113,5 +113,6 @@ s1_3d_q1fre <- s1_3d_lineage/sum(s1_3d_lineage)
 s1_3d_q1 <- exp(-sum(s1_3d_q1fre * log(s1_3d_q1fre)))
 
 # Reciprocal of the maximum lineage frequency
+
 
 s1_3d_qInf <- 1/(max(s1_3d_q1fre))
