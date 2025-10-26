@@ -14,3 +14,5 @@ Time-scaled phylogenetic trees constructed by Phylotime.
  * Phylotime_PosteriorMidgut.RData: time-scaled phylogenetic trees of intestinal stem cell population in posterior midgut.
 ### Sequence
 500 bp readout sequences used to build the phylogenetic trees.
+### GraphStructs
+Edge lists and node feature of intestinal stem cell lineages.
