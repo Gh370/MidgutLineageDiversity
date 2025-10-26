@@ -4,3 +4,4 @@
  * Simulation.R provides the simulation code for the random forest-based framework for estimating effective population size trends, as demonstrated in Supplementary Note 1.
  * The RandomForest_WholeMidgut_data.RData contains Ne from a fitted random forest model for the whole midgut, with sampling time points from 3 to 33 days post-eclosion.
  * GaltonWatsonModel.R provides the simulations underlying Figures 2d–2e by modeling population dynamics with a Galton–Watson process.
+ * GNN_LineageStructuralEvolution.py presents a GNN approach for modeling lineage structural evolution.
