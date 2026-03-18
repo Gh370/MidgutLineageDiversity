@@ -5,4 +5,4 @@
  * The RandomForest_WholeMidgut_data.RData contains Ne from a fitted random forest model for the whole midgut, with sampling time points from 3 to 33 days post-eclosion.
  * GaltonWatsonModel.R provides the simulations underlying Figures 2d–2e by modeling population dynamics with a Galton–Watson process.
  * GNN_LineageStructuralEvolution.py presents a GNN approach for modeling lineage structural evolution.
- * Using the Dl-GAL4 dataset as an example, EffectivePopulationSize.R and ClonalDiversity.R show the computational procedures for the robustness analysis of the age-associated clonal diversity decline and the validation of temporal mapping schemes.
+ * Using the Dl-GAL4 dataset as an example, RobustnessAnalysis.R and TemporalMapping.R show the computational procedures for the robustness analysis of the age-associated clonal diversity decline and the validation of temporal mapping schemes. The Tubulin-GAL4 dataset was processed in the same way.
