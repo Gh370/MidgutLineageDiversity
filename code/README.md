@@ -3,6 +3,6 @@
  * RandomForest.R illustrates how to fit representative curves of Ne across different time points using a random forest model, using the samples from day 3 as an example.
  * Simulation.R provides the simulation code for the random forest-based framework for estimating effective population size trends, as demonstrated in Supplementary Note 1.
  * The RandomForest_WholeMidgut_data.RData contains Ne from a fitted random forest model for the whole midgut, with sampling time points from 3 to 33 days post-eclosion.
- * GaltonWatsonModel.R provides the simulations underlying Figures 2d–2e by modeling population dynamics with a Galton–Watson process.
+ * GaltonWatsonModel.R provides the simulations underlying Figures 2D–2E by modeling population dynamics with a Galton–Watson process.
  * GNN_LineageStructuralEvolution.py presents a GNN approach for modeling lineage structural evolution.
  * Using the Dl-GAL4 dataset as an example, RobustnessAnalysis.R and TemporalMapping.R show the computational procedures for the robustness analysis of the age-associated clonal diversity decline and the validation of temporal mapping schemes. The Tubulin-GAL4 dataset was processed in the same way.
